@@ -12,3 +12,5 @@ resources:
 - cd.kustomization.yaml
 - install.kustomization.yaml
 - git-repository.yaml
+components:
+- ../../../components/version-developers
