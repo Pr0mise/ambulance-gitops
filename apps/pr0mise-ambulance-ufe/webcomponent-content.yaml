@@ -4,7 +4,10 @@ metadata:
   name: pr0mise-ambulance-ufe-content
 spec:
   microFrontend: pr0mise-ambulance-ufe
-  element: pr0mise-ambulance-wl-list
+  element: pr0mise-ambulance-wl-app
+  attributes:
+  - name: base-path
+    value: /pr0mise-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
