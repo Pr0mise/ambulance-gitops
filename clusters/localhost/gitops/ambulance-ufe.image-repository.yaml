@@ -4,5 +4,5 @@ metadata:
   name: ambulance-ufe
   namespace: wac-hospital
 spec:
-  image: <docker-id>/ambulance-ufe
+  image: pr0mise/ambulance-ufe
   interval: 1m0s
