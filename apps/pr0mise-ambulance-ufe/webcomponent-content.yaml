@@ -10,7 +10,6 @@ spec:
     value: http://localhost:5000/api
   - name: ambulance-id
     value: bobulova
-  attributes:
   - name: base-path
     value: /pr0mise-ambulance-wl/
   displayRules:
