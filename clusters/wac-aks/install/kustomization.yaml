@@ -13,6 +13,5 @@ labels:
 resources:
 - ../../../apps/pr0mise-ambulance-ufe
 
-
 components:
 - ../../../components/version-release
